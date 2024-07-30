@@ -17,13 +17,13 @@ In this course, I learned to:
 - `Week_1`: Sentiment analysis and text tokenization.
 - `Week_2`: Word embeddings and sentiment classification.
 - `Week_3`: Sequence models and context understanding.
-- `Week_4`: Poetry generation with LSTMs.
+- `Week_4`: Predicting the next word.
 
 Feel free to explore the notebooks and data. Contributions and feedback are welcome!
 
 ### How to Use
 1. Clone the repository: `git clone https://github.com/yourusername/repo-name.git`
-2. Install necessary libraries: `pip install -r requirements.txt`
+2. Download the necessary data.
 3. Open the Jupyter notebooks to explore and run the code.
 
 ### License
